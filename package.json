@@ -1,0 +1,23 @@
+{
+  "name": "ss_portfolio",
+  "version": "1.0.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sswift1995/SS_Portfolio.git"
+  },
+  "author": "Syrinthia Swift",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sswift1995/SS_Portfolio/issues"
+  },
+  "homepage": "https://github.com/sswift1995/SS_Portfolio#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
